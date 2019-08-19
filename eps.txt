@@ -1,0 +1,97 @@
+[<div class="episode item">
+<a href="/shows/the-tech-guy/episodes/1619?autostart=false" title="Learning to Code">
+<!-- @TODO THIS IS THE WRONG SIZE -->
+<img alt="Learning to Code" class="media-img" src="https://elroycdn.twit.tv/sites/default/files/styles/twit_slideshow_400x300/public/images/episodes/794421/hero/ttg1619.png?itok=OXWH5_et"/>
+<span class="media-bd">
+<span>
+        
+The Tech Guy
+
+<br/>
+        Episode 1619 - <span class="date">Aug 18 2019</span>
+<br/>
+        Learning to Code
+</span>
+</span>
+</a>
+</div>, <div class="episode item">
+<a href="/shows/the-tech-guy/episodes/1618?autostart=false" title="Setting up a wireless printer, remotely control devices, how to start a podcast.">
+<!-- @TODO THIS IS THE WRONG SIZE -->
+<img alt="The Tech Guy 1618" class="media-img" src="https://elroycdn.twit.tv/sites/default/files/styles/twit_slideshow_400x300/public/images/episodes/794341/hero/ttg1618.jpg?itok=l6o2KW3A"/>
+<span class="media-bd">
+<span>
+        
+The Tech Guy
+
+<br/>
+        Episode 1618 - <span class="date">Aug 17 2019</span>
+<br/>
+        Setting up a wireless printer, rem…
+</span>
+</span>
+</a>
+</div>, <div class="episode item">
+<a href="/shows/the-tech-guy/episodes/1617?autostart=false" title="Cell Towers and Recovering Erased Data on Hard Drives">
+<!-- @TODO THIS IS THE WRONG SIZE -->
+<img alt="Cell Towers and Recovering Erased Data on Hard Drives" class="media-img" src="https://elroycdn.twit.tv/sites/default/files/styles/twit_slideshow_400x300/public/images/episodes/791901/hero/ttg1617.png?itok=6xm88E31"/>
+<span class="media-bd">
+<span>
+        
+The Tech Guy
+
+<br/>
+        Episode 1617 - <span class="date">Aug 11 2019</span>
+<br/>
+        Cell Towers and Recovering Erased …
+</span>
+</span>
+</a>
+</div>, <div class="episode item">
+<a href="/shows/the-tech-guy/episodes/1616?autostart=false" title="Can I use an iPhone hands-free?">
+<!-- @TODO THIS IS THE WRONG SIZE -->
+<img alt="The Tech Guy 1616" class="media-img" src="https://elroycdn.twit.tv/sites/default/files/styles/twit_slideshow_400x300/public/images/episodes/791821/hero/ttg1616.jpg?itok=Rq8wmb7e"/>
+<span class="media-bd">
+<span>
+        
+The Tech Guy
+
+<br/>
+        Episode 1616 - <span class="date">Aug 10 2019</span>
+<br/>
+        Can I use an iPhone hands-free?
+</span>
+</span>
+</a>
+</div>, <div class="episode item">
+<a href="/shows/the-tech-guy/episodes/1615?autostart=false" title="When to buy new Apple products?">
+<!-- @TODO THIS IS THE WRONG SIZE -->
+<img alt="When to buy new Apple products?" class="media-img" src="https://elroycdn.twit.tv/sites/default/files/styles/twit_slideshow_400x300/public/images/episodes/789191/hero/ttg1615.png?itok=ws5F6Du_"/>
+<span class="media-bd">
+<span>
+        
+The Tech Guy
+
+<br/>
+        Episode 1615 - <span class="date">Aug 4 2019</span>
+<br/>
+        When to buy new Apple products?
+</span>
+</span>
+</a>
+</div>, <div class="episode item">
+<a href="/shows/the-tech-guy/episodes/1614?autostart=false" title="Face recognition uses in public, film vs TV framerates, learning local customs when traveling.">
+<!-- @TODO THIS IS THE WRONG SIZE -->
+<img alt="The Tech Guy 1614" class="media-img" src="https://elroycdn.twit.tv/sites/default/files/styles/twit_slideshow_400x300/public/images/episodes/789121/hero/ttg1614.jpg?itok=HM1Kj-P5"/>
+<span class="media-bd">
+<span>
+        
+The Tech Guy
+
+<br/>
+        Episode 1614 - <span class="date">Aug 3 2019</span>
+<br/>
+        Face recognition uses in public, f…
+</span>
+</span>
+</a>
+</div>]
