@@ -78,9 +78,9 @@ class podcast():
                 self.episodes.update({key: value})
 
         print('Episodes list collected')
-        with open('ep_list.txt', 'w') as f:
-            f.write(str(list(self.episodes)))
-        f.close()
+        # with open('ep_list.txt', 'w') as f:
+        #     f.write(str(list(self.episodes)))
+        # f.close()
             
         
     # TODO: Get dl_types addresses
